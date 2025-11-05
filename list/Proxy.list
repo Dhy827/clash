@@ -135,13 +135,8 @@ IP-CIDR,161.142.117.0/24,no-resolve
 IP-CIDR,46.3.240.0/24,no-resolve 
 IP-CIDR,45.87.172.0/24,no-resolve 
 
-# AI
+# AI芝麻开门
 # DOMAIN,ai.opendoor.cn
-
-# 小牛
-# DOMAIN-SUFFIX,xiaoniuyun.cc
-
-DOMAIN-SUFFIX,fastlydns.net
 
 
 # 国外DNS
@@ -178,52 +173,7 @@ DOMAIN-SUFFIX,itzmx.com
 DOMAIN-SUFFIX,iriseden.eu
 DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,i2p.rocks
-DOMAIN-SUFFIX,shittyurl.org
-DOMAIN-SUFFIX,filetracker.xyz
-DOMAIN-SUFFIX,altrosky.nl
-DOMAIN-SUFFIX,leech.ie
 
-
-
-
-
-# 小牛机场
-DOMAIN-SUFFIX,vns735p8.xyz
-DOMAIN-SUFFIX,i4z65c0h.xyz
-DOMAIN-SUFFIX,v140oy1s.xyz
-DOMAIN-SUFFIX,tcb54710.xyz
-
-DOMAIN-SUFFIX,polymarket.com
-DOMAIN-SUFFIX,cacapex.com
-DOMAIN-SUFFIX,1lib.sk
-DOMAIN-SUFFIX,6bcloud.top
-DOMAIN-SUFFIX,viptwo.top
-DOMAIN-SUFFIX,followme.com
-DOMAIN-SUFFIX,followme.ceo
-DOMAIN-SUFFIX,whatsmydns.me
-DOMAIN-SUFFIX,hostloc.net
-DOMAIN-SUFFIX,tmgm.com
-DOMAIN-SUFFIX,plexapp.com
-DOMAIN-SUFFIX,plexmediaserver.com
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,ip111.cn
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,surfsharkdns.com
-DOMAIN-SUFFIX,llgjc1.com
-DOMAIN-SUFFIX,qichiyu.com
-# DOMAIN-SUFFIX,groq.com
-# DOMAIN-SUFFIX,difyai.com
-DOMAIN-SUFFIX,hsy88.org
-DOMAIN-SUFFIX,xn--mes358acgm99l.com
-DOMAIN-SUFFIX,dnsleaktest.org
-DOMAIN-SUFFIX,nmnm.fun
 
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,wallvpn.com
@@ -328,3 +278,7 @@ DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,aiinyue.com
 DOMAIN-SUFFIX,paoluz.link
+#终点站
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
