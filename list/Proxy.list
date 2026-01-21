@@ -272,6 +272,9 @@ IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
+##甲骨文
+IP-CIDR,193.122.115.103/32,,no-resolve
+
 #强制代理
 DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,calibre-ebook.com
