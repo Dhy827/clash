@@ -4,7 +4,9 @@ DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,adobestats.io
 
-DOMAIN-SUFFIX,bandisoft.com
-DOMAIN-SUFFIX,cert.bandicam.com
-DOMAIN-SUFFIX,ssl.bandisoft.com
-DOMAIN-SUFFIX,bandicam.com
+
+DOMAIN,ad.tencentvideo.com
+DOMAIN,adstats.tencentvideo.com
+DOMAIN,info6.video.qq.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,ugdtimg.com
